@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/br/com/novaroma/gerenciamentoDeCaixa/entidades/Funcionario.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/controlador/ControladorGerente.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/apresentacao/ListarGerente.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/controlador/IControladorGerente.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/controlador/IControladorOperadorDeCaixa.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/fabrica/FabricaControlador.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/controlador/ValidarNumeros.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/controlador/ControladorOperadorCaixa.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/dao/Dao.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/fabrica/FabricaDao.java</file>
+            <file>file:/D:/Arquivos/Dropbox/Projeto/projetoGerenciamentoDeCaixa7/src/br/com/novaroma/gerenciamentoDeCaixa/controlador/ValidarLetras.java</file>
+        </group>
+    </open-files>
+</project-private>
